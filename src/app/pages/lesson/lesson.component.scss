@@ -1,0 +1,29 @@
+:host ::ng-deep .ck-editor__editable_inline {
+  min-height: 500px;
+}
+
+.overflow-visible {
+  overflow: visible;
+}
+
+.product-image-drop-zone {
+  width: 300px;
+}
+
+.product-image-drop-zone, .product-image-list {
+  border: dotted 3px lightgray;
+}
+
+.specification-edit {
+  width: 2rem;
+  height: 2rem;
+}
+
+.specification-container--img {
+  max-height: 25px;
+  max-width: 25px;
+}
+
+.main-content {
+  overflow-y: hidden;
+}
